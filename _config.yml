@@ -126,4 +126,4 @@ deploy:
     github:
       url: https://github.com/snakepowerpoint/snakepowerpoint.github.io
       branch: master
-      token: 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
+      token: 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 
