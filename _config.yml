@@ -124,6 +124,6 @@ deploy:
   type: git
   repo: 
     github:
-      url: https://github.com/snakepowerpoint/snakepowerpoint.github.io
+      url: https://github.com/snakepowerpoint/travis-hexo-blog.git
       branch: master
-      token: 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 
+      token: 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  
