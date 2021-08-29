@@ -122,7 +122,5 @@ feed:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/snakepowerpoint/snakepowerpoint.github.io
+  repo: git@github.com:snakepowerpoint/snakepowerpoint.github.io.git
   branch: master
-  message:
-  token:
