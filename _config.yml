@@ -122,8 +122,7 @@ feed:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: 
-    github:
-      url: https://github.com/snakepowerpoint/travis-hexo-blog.git
-      branch: master
-      token: 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  
+  repo: https://github.com/snakepowerpoint/travis-hexo-blog.git
+  branch: master
+  message:
+  token:
