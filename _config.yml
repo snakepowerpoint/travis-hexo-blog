@@ -40,7 +40,7 @@ external_link:
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
-render_drafts: True
+render_drafts: False
 post_asset_folder: True
 relative_link: false
 future: true
@@ -120,8 +120,11 @@ feed:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+## 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
 deploy:
   type: git
-  repo: https://github.com/snakepowerpoint/snakepowerpoint.github.io
-  branch: master
-  token: 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
+  repo: 
+    github:
+      url: https://github.com/snakepowerpoint/snakepowerpoint.github.io
+      branch: master
+      token: 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
