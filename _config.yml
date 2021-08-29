@@ -120,11 +120,10 @@ feed:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-## 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
 deploy:
   type: git
   repo: 
     github:
       url: https://github.com/snakepowerpoint/snakepowerpoint.github.io
       branch: master
-      token: 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
+      token: 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
